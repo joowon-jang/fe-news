@@ -5,7 +5,7 @@
 - 다양한 사용자 실험(A/B 테스트)을 설계하고 분석하여 기능 개선과 인터페이스 최적화의 근거를 마련합니다.
 - 사용자 피드백을 기반으로 안정적이고 효율적인 서비스 환경을 제공합니다.
 - 자주 사용되는 컴포넌트와 모듈을 식별·분석하여 레거시 코드의 최소화 및 시스템 개선을 가속화했습니다.
-![data](./assets/searchfe/searchfe-3.png)
+![data](./assets/searchfe/searchfe-6.png)
 
 ### 맞춤형 검색을 위한 유연한 UI 렌더링 시스템 개발
 - Server-Driven UI 기반의 표준화된 프로토콜을 설계하여 사용자별로 최적화된 UI를 동적으로 제공합니다.
@@ -141,6 +141,8 @@
 - [네이버 검색 클라이언트 로그 수집 - Beacon API 전환기](https://d2.naver.com/helloworld/1773964)
 - [2024 네이버 통합검색의 웹 성능 리뷰](https://d2.naver.com/helloworld/9582944)
 - [[DAN 24] 데이터 기반으로 지속 성장이 가능한 네이버 검색 FE 시스템 구축하기](https://d2.naver.com/helloworld/3435419)
+- [이건 첫 번째 클릭! 히트맵 같이 보기](https://d2.naver.com/helloworld/0957098)
+- [네이버 통합검색 AIB 도입과 웹 성능 변화 분석](https://d2.naver.com/helloworld/4241703)
 
 ### 링크
 - [egjs 오픈소스](http://naver.github.io/egjs/)
